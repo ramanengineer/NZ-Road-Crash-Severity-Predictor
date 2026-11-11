@@ -1,5 +1,4 @@
 # NZ Road Crash Severity Predictor
-## 297.201 Project 3 — Waka Kotahi CAS Data
 
 ### Setup
 
